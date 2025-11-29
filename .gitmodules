@@ -1,0 +1,12 @@
+[submodule "llm"]
+	path = llm
+	url = https://github.com/CsOptima/llm.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/CsOptima/backend.git
+[submodule "summarize"]
+	path = summarize
+	url = https://github.com/CsOptima/summarize.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/CsOptima/frontend.git
